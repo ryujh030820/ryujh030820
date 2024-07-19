@@ -1,6 +1,6 @@
 <div align="center">
   
-![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hello!&fontSize=56&fontAlign=82&animation=twinkling&desc=I%20am%20Jung%20Hwan%20Ryu&descAlign=78&descSize=32&fontAlignY=42)
+![header](https://capsule-render.vercel.app/api?type=rect&height=300&color=gradient&text=Welcome%20to%20JH's%20GitHub&fontSize=58&fontAlign=56&fontAlignY=72&theme=gruvbox)
 ---
 [![JH's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryujh030820&include_all_commits=true&theme=nord&count_private=true)](https://github.com/ryujh030820)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ryujh030820)](https://solved.ac/ryujh030820/)
