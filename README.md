@@ -1,9 +1,17 @@
 <div align="center">
+<h1>JH's GitHub</h1>
+My name is Jung Hwan Ryu and I am currently a third-year computer science student. I'm interested in ML/DL, if you want to get in touch with me, please email me at ryujh030820@gmail.com!
+<br>
+<br>
+<br>
   
 [![JH's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryujh030820&include_all_commits=true&theme=nord&count_private=true)](https://github.com/ryujh030820)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ryujh030820)](https://solved.ac/ryujh030820/)
 <br>
 <a href="https://github.com/ryujh030820"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryujh030820&layout=compact&theme=nord&hide_border=true" /></a>
+<br>
+<br>
+<br>
 <h2>About me</h2>
 <a href="https://www.linkedin.com/in/junghwanryu"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://velog.io/@ryujh030820"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white"/></a>
