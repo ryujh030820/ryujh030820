@@ -1,14 +1,18 @@
 <div align="center">
+<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 <h1>JH's GitHub</h1>
 My name is Jung Hwan Ryu and I am currently a third-year computer science student. I'm interested in ML/DL, if you want to get in touch with me, please email me at ryujh030820@gmail.com!
 <br>
 <br>
 <br>
   
-[![JH's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryujh030820&include_all_commits=true&theme=nord&count_private=true)](https://github.com/ryujh030820)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ryujh030820)](https://solved.ac/ryujh030820/)
+[![JH's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryujh030820&include_all_commits=true&theme=dark&count_private=true)](https://github.com/ryujh030820)
 <br>
-<a href="https://github.com/ryujh030820"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryujh030820&layout=compact&theme=nord&hide_border=true" /></a>
+[![GitHub Streak](https://streak-stats.demolab.com?user=ryujh030820&theme=dark)](https://git.io/streak-stats)
+<br>
+<a href="https://github.com/ryujh030820"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryujh030820&layout=compact&theme=dark&hide_border=true" /></a>
+<br>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ryujh030820)](https://solved.ac/ryujh030820/)
 <br>
 <br>
 <br>
@@ -20,6 +24,7 @@ My name is Jung Hwan Ryu and I am currently a third-year computer science studen
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
   <br>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -28,6 +33,7 @@ My name is Jung Hwan Ryu and I am currently a third-year computer science studen
   <br>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
 </p>
 </div>
