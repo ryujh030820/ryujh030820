@@ -1,7 +1,7 @@
 <div align="center">
   
 ![header](https://capsule-render.vercel.app/api?type=rounded&height=120&color=timeAuto&text=Hello👋&fontSize=46)
-#### Welcome to JH's github
+#### Welcome to JH's github 👨‍💻
 <br>
 <br>
 <br>
@@ -20,13 +20,13 @@
 <br>
 <br>
 
-#### About me🙋‍♂️
+#### About me 🙋‍♂️
 <a href="https://www.linkedin.com/in/junghwanryu"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://velog.io/@ryujh030820"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white"/></a>
 <br>
 <br>
 <br>
-#### Tech stack🛠️
+#### Tech stack 🛠️
 <p>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
