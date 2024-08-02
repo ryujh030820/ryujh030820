@@ -1,25 +1,32 @@
 <div align="center">
-<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-<h1>JH's GitHub</h1>
-My name is Jung Hwan Ryu and I am currently a third-year computer science student. I'm interested in ML/DL, if you want to get in touch with me, please email me at ryujh030820@gmail.com!
-<br>
-<br>
-<br>
   
+![header](https://capsule-render.vercel.app/api?type=rounded&height=120&color=timeAuto&text=Hello👋&fontSize=46)
+#### Welcome to JH's github
+<br>
+<br>
+<br>
+
 [![JH's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryujh030820&include_all_commits=true&theme=dark&count_private=true)](https://github.com/ryujh030820)
+<br>
 <br>
 [![GitHub Streak](https://streak-stats.demolab.com?user=ryujh030820&theme=dark)](https://git.io/streak-stats)
 <br>
+<br>
 <a href="https://github.com/ryujh030820"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryujh030820&layout=compact&theme=dark&hide_border=true" /></a>
+<br>
 <br>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ryujh030820)](https://solved.ac/ryujh030820/)
 <br>
 <br>
 <br>
-<h2>About me</h2>
+
+#### About me🙋‍♂️
 <a href="https://www.linkedin.com/in/junghwanryu"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://velog.io/@ryujh030820"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white"/></a>
-<h2>Tech stack</h2>
+<br>
+<br>
+<br>
+#### Tech stack🛠️
 <p>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
