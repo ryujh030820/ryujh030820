@@ -21,7 +21,6 @@
 <br>
 
 #### About me 🙋‍♂️
-<a href="https://www.linkedin.com/in/junghwanryu"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://velog.io/@ryujh030820"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white"/></a>
 <br>
 <br>
