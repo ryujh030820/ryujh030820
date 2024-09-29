@@ -1,6 +1,6 @@
 ## Hi there 👋
-I am currently a student majoring in computer science. I am interested in and studying frontend and ML/DL.
-If you want to get in touch with me, email me at the ryujh030820@gmail.com!
+I am currently a student majoring in computer science. I am interested in and studying front-end and ML/DL.
+If you want to get in touch with me, email me at ryujh030820@gmail.com!
 
 ### Blog
 <a href="https://ryujh030820.github.io">
